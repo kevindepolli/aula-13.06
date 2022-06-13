@@ -1,0 +1,8 @@
+#picture {
+    float: right;
+    margin-right:20px;
+}
+
+.floatstop {
+    clear: right;
+}
